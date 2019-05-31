@@ -1,19 +1,15 @@
-* {
+ * { 
     box-sizing: border-box;
-    margin: 1rem auto;
-    padding: 0;
+    margin: 10px auto;
+    /* padding: 0; */
     background-color: rgb(187, 181, 146);
-}
+} 
 
 h1 {
     background-color: #CFF8B7;
 }
 .site-nav {
     background-color: #CFF8B7;
-}
-
-h3 {
-    align-content: center;
 }
 
 .img {
@@ -25,5 +21,8 @@ h3 {
 
 .container{
     display: flex;
-    align-items: center;
+}
+
+.tab {
+    margin-left: 15px;
 }
