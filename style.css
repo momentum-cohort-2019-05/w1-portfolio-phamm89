@@ -35,7 +35,7 @@ h1 {
     margin-left: 15px;
 }
 
-@media screen and (min-width: 990px){
+@media screen and (min-width: 800px){
     .container{
         display:flex;
     }
