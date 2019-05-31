@@ -5,17 +5,25 @@
     background-color: rgb(187, 181, 146);
 } 
 
+img {
+    max-width: 100%;
+}
 h1 {
     background-color: #CFF8B7;
 }
 .site-nav {
     background-color: #CFF8B7;
+    display: block;
+}
+
+.site-nav: hover{
+    transform: rotate(180deg);
 }
 
 .img {
-    border-color: #CFF8B7;
-    border-width: 12px;
-    border-style: dashed;
+    border-color: rgb(211, 183, 248);
+    border-width: 36px;
+    border-style: dotted;
     padding: 3px;
 }
 
