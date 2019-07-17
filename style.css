@@ -9,10 +9,9 @@ img {
     max-width: 100%;
 }
 h1 {
-    background-color: #CFF8B7;
+    background-color: white;
 }
 .site-nav {
-    background-color: #CFF8B7;
     display: block;
 }
 
@@ -21,9 +20,6 @@ h1 {
 }
 
 .img {
-    border-color: rgb(211, 183, 248);
-    border-width: 36px;
-    border-style: dotted;
     padding: 3px;
 }
 
